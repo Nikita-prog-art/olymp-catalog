@@ -2,3 +2,12 @@ baseURL = 'http://example.org/'
 languageCode = 'ru-ru'
 title = 'Каталог олимпиадных задач'
 theme = 'paper'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "catalog"
+    name = "Каталог"
+    url = "/catalog/"
+    weight = 10
+	

@@ -11,4 +11,5 @@ draft: false
 ### [Динамика](/tdbt/dynamic/)
 ### [Массовые операции](/tdbt/mass-operations/)
 ### [Теория чисел](/tdbt/number_theory/)
+### [Математика](/tdbt/math/)
 

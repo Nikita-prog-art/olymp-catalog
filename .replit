@@ -1,4 +1,4 @@
-run = "git submodule update --init && hugo server -b http://olymp-catalog.nikita-prog-art.repl.co/ --bind 0.0.0.0 -p 80"
+run = "git submodule update --init && hugo server -b olymp-catalog.nikita-prog-art.repl.co --bind 0.0.0.0 --appendPort=false"
 
 [nix]
 channel = "unstable"
